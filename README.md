@@ -4,6 +4,8 @@ That project is a simple example builded to improve my Spring Boot and GraphQl s
 
 # Start
 
+After you running your project access that link: http://localhost:8080/graphiql
+
 ```graphql
 query {
     helloWorld
